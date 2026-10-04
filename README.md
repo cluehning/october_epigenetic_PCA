@@ -10,7 +10,7 @@ produces figures plus a report from the data that were actually downloaded.
 The mathematical appendix explains the PCA concepts and derives the formulas
 used in the project, including covariance eigenvectors, the SVD, explained
 variance, projection, and reconstruction error. See
-[MATHEMATICAL_APPENDIX.md](MATHEMATICAL_APPENDIX.md).
+[E_PCA_Math_Notes](https://github.com/cluehning/october_epigenetic_PCA/blob/main/E_PCA%20I%20Math%20Notes.pdf).
 
 ## Biological context
 
